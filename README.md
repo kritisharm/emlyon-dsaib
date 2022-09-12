@@ -1,2 +1,3 @@
 # emlyon-dsaib
-a description 
+Data Science Artifical Intelligence Boost 
+
